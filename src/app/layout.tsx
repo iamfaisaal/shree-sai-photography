@@ -17,12 +17,12 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://sai-photography.vercel.app"),
+  metadataBase: new URL("https://shree-sai-photography.vercel.app"),
   openGraph: {
     title: "Shree Sai Photography",
     description:
       "Capturing moments, creating memories. Experience the art of photography with our professional and passionate team.",
-    url: "https://sai-photography.vercel.app",
+    url: "https://shree-sai-photography.vercel.app",
     siteName: "Shree Sai Photography",
     type: "website",
     images: [
